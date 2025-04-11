@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game DIGJITAL SCHOOL FERIZAJ
 
 Description:
 Welcome to Snake Game: Apple Collector! This classic game puts you in control of a hungry snake on a mission to collect as many delicious apples as possible. Navigate through the maze-like grid, avoiding obstacles and yourself as you grow longer with each apple eaten.
